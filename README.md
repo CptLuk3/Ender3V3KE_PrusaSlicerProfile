@@ -1,1 +1,1 @@
-I adapted my profiles to the original Creality profiles and made some initial changes that I liked better and gave better results.
+I started making my PrusaSlicer profiles for the Ender 3 V3 KE here. If you have something to improve, feel free to write me a comment, but I will also continue to try them out myself. I adapted my profiles to the original Creality profiles and made some initial changes that I liked better and gave better results.
